@@ -15,7 +15,10 @@ Use the following links:
 IPython Notebook Installation (MAC 10.9)
 =============================
 
+A little long, and there are many source of errors (read "experience") along the path :)
+
 * download and install python 3.4 (https://www.python.org/)
+* install XCode Command Line Tools
 * install ipython with all its dependencies
 ```
 sudo pip3 install ipython[all]
@@ -25,8 +28,18 @@ sudo pip3 install ipython[all]
 brew install gfortran
 sudo pip3 install --upgrade numpy
 sudo pip3 install scipy
-sudo pip3 install matplotlib
 sudo pip3 install ipdb
+```
+* install [XQuartx] and library dependencies for matplotlib ([libpng](http://www.libpng.org/pub/png/libpng.html) and [freetype](http://download.savannah.gnu.org/releases/freetype/))
+```
+cd [library_folder]
+./configure
+make
+sudo make install
+```
+* install matplotlib (plotting library) 
+```
+sudo pip3 install matplotlib
 ```
 * test ipython
 ```
