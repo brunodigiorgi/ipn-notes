@@ -12,7 +12,7 @@ Use the following links:
 * [Bandlimited Interpolation](http://nbviewer.ipython.org/github/brunodigiorgi/ipn-notes/blob/master/audio/BandlimitedInterpolation.ipynb)
 * [Time Varying - Fractional Delay Effects](http://nbviewer.ipython.org/github/brunodigiorgi/ipn-notes/blob/master/audio/TimeVarying-FractionalDelayEffects.ipynb)
 
-IPython Notebook Installation (MAC 10.9)
+IPython Notebook Installation (osx 10.9)
 =============================
 
 A little long, and there are many source of errors (read "experience") along the path :)
