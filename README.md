@@ -30,7 +30,7 @@ sudo pip3 install --upgrade numpy
 sudo pip3 install scipy
 sudo pip3 install ipdb
 ```
-* install [XQuartx](http://xquartz.macosforge.org/landing/) and library dependencies for matplotlib ([libpng](http://www.libpng.org/pub/png/libpng.html) and [freetype](http://download.savannah.gnu.org/releases/freetype/))
+* install [XQuartx](http://xquartz.macosforge.org/landing/) and library dependencies for matplotlib (download from [libpng](http://www.libpng.org/pub/png/libpng.html) and [freetype](http://download.savannah.gnu.org/releases/freetype/))
 ```
 cd [library_folder]
 ./configure
