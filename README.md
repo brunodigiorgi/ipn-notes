@@ -11,6 +11,7 @@ Use the following links:
 * [Linear Interpolation](http://nbviewer.ipython.org/github/brunodigiorgi/ipn-notes/blob/master/audio/LinearInterpolation.ipynb)
 * [Bandlimited Interpolation](http://nbviewer.ipython.org/github/brunodigiorgi/ipn-notes/blob/master/audio/BandlimitedInterpolation.ipynb)
 * [Time Varying - Fractional Delay Effects](http://nbviewer.ipython.org/github/brunodigiorgi/ipn-notes/blob/master/audio/TimeVarying-FractionalDelayEffects.ipynb)
+* [Head Related Transfer Function](http://nbviewer.ipython.org/github/brunodigiorgi/ipn-notes/blob/master/audio/hrtf.ipynb)
 
 IPython Notebook Installation (osx 10.9)
 =============================
