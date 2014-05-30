@@ -8,10 +8,13 @@ Online read-only versions
 
 Use the following links:
 
-* [Linear Interpolation](http://nbviewer.ipython.org/github/brunodigiorgi/ipn-notes/blob/master/audio/LinearInterpolation.ipynb)
-* [Bandlimited Interpolation](http://nbviewer.ipython.org/github/brunodigiorgi/ipn-notes/blob/master/audio/BandlimitedInterpolation.ipynb)
-* [Time Varying - Fractional Delay Effects](http://nbviewer.ipython.org/github/brunodigiorgi/ipn-notes/blob/master/audio/TimeVarying-FractionalDelayEffects.ipynb)
-* [Head Related Transfer Function](http://nbviewer.ipython.org/github/brunodigiorgi/ipn-notes/blob/master/audio/hrtf.ipynb)
+* Audio
+  * [Linear Interpolation](http://nbviewer.ipython.org/github/brunodigiorgi/ipn-notes/blob/master/audio/LinearInterpolation.ipynb)
+  * [Bandlimited Interpolation](http://nbviewer.ipython.org/github/brunodigiorgi/ipn-notes/blob/master/audio/BandlimitedInterpolation.ipynb)
+  * [Time Varying - Fractional Delay Effects](http://nbviewer.ipython.org/github/brunodigiorgi/ipn-notes/blob/master/audio/TimeVarying-FractionalDelayEffects.ipynb)
+  * [Head Related Transfer Function](http://nbviewer.ipython.org/github/brunodigiorgi/ipn-notes/blob/master/audio/hrtf.ipynb)
+* Numpy
+  * [Numpy array](http://nbviewer.ipython.org/github/brunodigiorgi/ipn-notes/blob/master/numpy/numpy-array.ipynb) 
 
 IPython Notebook Installation (osx 10.9)
 =============================
