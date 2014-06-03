@@ -9,6 +9,7 @@ Online read-only versions
 Use the following links:
 
 * Audio
+  * [Additive Synthesis](http://nbviewer.ipython.org/github/brunodigiorgi/ipn-notes/blob/master/audio/AdditiveSynthesis.ipynb)
   * [Linear Interpolation](http://nbviewer.ipython.org/github/brunodigiorgi/ipn-notes/blob/master/audio/LinearInterpolation.ipynb)
   * [Bandlimited Interpolation](http://nbviewer.ipython.org/github/brunodigiorgi/ipn-notes/blob/master/audio/BandlimitedInterpolation.ipynb)
   * [Time Varying - Fractional Delay Effects](http://nbviewer.ipython.org/github/brunodigiorgi/ipn-notes/blob/master/audio/TimeVarying-FractionalDelayEffects.ipynb)
