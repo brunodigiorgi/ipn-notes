@@ -57,6 +57,15 @@ cd [directory_with_your_ipynb_files]
 ipython notebook
 ```
 
+Known issues
+===========
+When calling ipython notebook you get the error:
+```
+ValueError: unknown locale: UTF-8
+```
+[Solution1](https://coderwall.com/p/-k_93g), [Solution2](http://stackoverflow.com/questions/15526996/ipython-notebook-locale-error) (they are the same)
+
+
 License
 =======
 
