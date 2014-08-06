@@ -17,6 +17,16 @@ Use the following links:
 * Numpy
   * [Numpy array](http://nbviewer.ipython.org/github/brunodigiorgi/ipn-notes/blob/master/numpy/numpy-array.ipynb) 
 
+IPython Notebook Installation (Ubuntu 14.04)
+=============================
+Use the shell scripts provided:
+ - installIPython_ubuntu32bit.sh for Ubuntu 32bit
+ - installIPython_ubuntuAMD64.sh for Ubuntu AMD64
+
+The scripts contain the installation commands for all the packages I use: Numpy, Scipy, Matplotlib, PyTables, IPython.
+Running time estimate: more than 1 hour.
+Read them in case of problems, and please report the solution that worked for you.
+
 IPython Notebook Installation (osx 10.9)
 =============================
 
