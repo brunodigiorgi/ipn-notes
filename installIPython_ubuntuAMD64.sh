@@ -238,3 +238,11 @@ rm tables-3.1.1.tar.gz
 # then test in python:
 # import tables as tb
 # tb.test()
+
+wget http://www.crummy.com/software/BeautifulSoup/bs4/download/4.3/beautifulsoup4-4.3.2.tar.gz
+tar -xvzf beautifulsoup4-4.3.2.tar.gz beautifulsoup4-4.3.2/
+cd beautifulsoup4-4.3.2/
+sudo python3.4 setup.py install
+cd ../
+sudo rm beautifulsoup4-4.3.2/ -r
+rm beautifulsoup4-4.3.2.tar.gz
