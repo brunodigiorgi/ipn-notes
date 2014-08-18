@@ -142,13 +142,13 @@ rm Jinja2-2.7.3.tar.gz
 
 # ipython 
 # get the lastest release from https://pypi.python.org/pypi/ipython#downloads
-wget https://pypi.python.org/packages/source/i/ipython/ipython-2.1.0.tar.gz#md5=785c7b6364c6a0dd34aa4ea970cf83b9
-tar -xvzf ipython-2.1.0.tar.gz ipython-2.1.0/
-cd ipython-2.1.0/
+wget https://pypi.python.org/packages/source/i/ipython/ipython-2.2.0.tar.gz#md5=b91d3724f655a8e16d022772f696cfd5
+tar -xvzf ipython-2.2.0.tar.gz ipython-2.2.0/
+cd ipython-2.2.0/
 sudo python3.4 setup.py install
 cd ../
-sudo rm ipython-2.1.0/ -r
-rm ipython-2.1.0.tar.gz
+sudo rm ipython-2.2.0/ -r
+rm ipython-2.2.0.tar.gz
 
 # mathjax
 wget https://github.com/mathjax/MathJax/archive/v2.0-latest.zip
