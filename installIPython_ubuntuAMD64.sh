@@ -246,3 +246,13 @@ sudo python3.4 setup.py install
 cd ../
 sudo rm beautifulsoup4-4.3.2/ -r
 rm beautifulsoup4-4.3.2.tar.gz
+
+# sphinx
+wget https://pypi.python.org/packages/source/S/Sphinx/Sphinx-1.2.2.tar.gz#md5=3dc73ccaa8d0bfb2d62fb671b1f7e8a4
+tar -xvzf Sphinx-1.2.2.tar.gz Sphinx-1.2.2/
+cd Sphinx-1.2.2/
+sudo python3.4 setup.py install
+cd ../
+sudo rm Sphinx-1.2.2/ -r
+rm Sphinx-1.2.2.tar.gz
+
