@@ -256,3 +256,10 @@ cd ../
 sudo rm Sphinx-1.2.2/ -r
 rm Sphinx-1.2.2.tar.gz
 
+wget https://pypi.python.org/packages/source/n/numpydoc/numpydoc-0.5.tar.gz#md5=6feac1f625ad0df5a11c7b60f920ac1b
+tar -xvzf numpydoc-0.5.tar.gz numpydoc-0.5/
+cd numpydoc-0.5/
+sudo python3.4 setup.py install
+cd ../
+sudo rm numpydoc-0.5/ -r
+rm numpydoc-0.5.tar.gz
