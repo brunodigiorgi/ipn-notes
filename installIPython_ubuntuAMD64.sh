@@ -142,13 +142,13 @@ rm Jinja2-2.7.3.tar.gz
 
 # ipython 
 # get the lastest release from https://pypi.python.org/pypi/ipython#downloads
-wget https://pypi.python.org/packages/source/i/ipython/ipython-2.1.0.tar.gz#md5=785c7b6364c6a0dd34aa4ea970cf83b9
-tar -xvzf ipython-2.1.0.tar.gz ipython-2.1.0/
-cd ipython-2.1.0/
+wget https://pypi.python.org/packages/source/i/ipython/ipython-2.2.0.tar.gz#md5=b91d3724f655a8e16d022772f696cfd5
+tar -xvzf ipython-2.2.0.tar.gz ipython-2.2.0/
+cd ipython-2.2.0/
 sudo python3.4 setup.py install
 cd ../
-sudo rm ipython-2.1.0/ -r
-rm ipython-2.1.0.tar.gz
+sudo rm ipython-2.2.0/ -r
+rm ipython-2.2.0.tar.gz
 
 # mathjax
 wget https://github.com/mathjax/MathJax/archive/v2.0-latest.zip
@@ -238,3 +238,28 @@ rm tables-3.1.1.tar.gz
 # then test in python:
 # import tables as tb
 # tb.test()
+
+wget http://www.crummy.com/software/BeautifulSoup/bs4/download/4.3/beautifulsoup4-4.3.2.tar.gz
+tar -xvzf beautifulsoup4-4.3.2.tar.gz beautifulsoup4-4.3.2/
+cd beautifulsoup4-4.3.2/
+sudo python3.4 setup.py install
+cd ../
+sudo rm beautifulsoup4-4.3.2/ -r
+rm beautifulsoup4-4.3.2.tar.gz
+
+# sphinx
+wget https://pypi.python.org/packages/source/S/Sphinx/Sphinx-1.2.2.tar.gz#md5=3dc73ccaa8d0bfb2d62fb671b1f7e8a4
+tar -xvzf Sphinx-1.2.2.tar.gz Sphinx-1.2.2/
+cd Sphinx-1.2.2/
+sudo python3.4 setup.py install
+cd ../
+sudo rm Sphinx-1.2.2/ -r
+rm Sphinx-1.2.2.tar.gz
+
+wget https://pypi.python.org/packages/source/n/numpydoc/numpydoc-0.5.tar.gz#md5=6feac1f625ad0df5a11c7b60f920ac1b
+tar -xvzf numpydoc-0.5.tar.gz numpydoc-0.5/
+cd numpydoc-0.5/
+sudo python3.4 setup.py install
+cd ../
+sudo rm numpydoc-0.5/ -r
+rm numpydoc-0.5.tar.gz
