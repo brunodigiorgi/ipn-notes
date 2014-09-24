@@ -263,3 +263,19 @@ sudo python3.4 setup.py install
 cd ../
 sudo rm numpydoc-0.5/ -r
 rm numpydoc-0.5.tar.gz
+
+wget https://pypi.python.org/packages/source/o/ordered-set/ordered-set-1.3.tar.gz#md5=b8b8690edc1c04275aa6c2202ea41702
+tar -xvzf ordered-set-1.3.tar.gz ordered-set-1.3/
+cd ordered-set-1.3/
+sudo python3.4 setup.py install
+cd ../
+sudo rm ordered-set-1.3/ -r
+rm ordered-set-1.3.tar.gz
+
+wget https://pypi.python.org/packages/source/P/PyLaTeX/PyLaTeX-0.5.tar.gz#md5=6922b90f3699431c79016bcf8b59fc3e
+tar -xvzf PyLaTeX-0.5.tar.gz PyLaTeX-0.5/
+cd PyLaTeX-0.5/
+sudo python3.4 setup.py install
+cd ../
+sudo rm PyLaTeX-0.5/ -r
+rm PyLaTeX-0.5.tar.gz
