@@ -14,6 +14,7 @@ Use the following links:
   * [Bandlimited Interpolation](http://nbviewer.ipython.org/github/brunodigiorgi/ipn-notes/blob/master/audio/BandlimitedInterpolation.ipynb)
   * [Time Varying - Fractional Delay Effects](http://nbviewer.ipython.org/github/brunodigiorgi/ipn-notes/blob/master/audio/TimeVarying-FractionalDelayEffects.ipynb)
   * [Head Related Transfer Function](http://nbviewer.ipython.org/github/brunodigiorgi/ipn-notes/blob/master/audio/hrtf.ipynb)
+  * [Extended Karplus Strong Algorithm](http://nbviewer.ipython.org/github/brunodigiorgi/ipn-notes/blob/master/audio/ExtendedKarplusStrongAlgorithm.ipynb)
 * Numpy
   * [Numpy array](http://nbviewer.ipython.org/github/brunodigiorgi/ipn-notes/blob/master/numpy/numpy-array.ipynb) 
 
