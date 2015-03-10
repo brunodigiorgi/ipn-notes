@@ -320,3 +320,12 @@ https://pypi.python.org/pypi/PyLaTeX/
 
 installs
 /Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/PyLaTeX-0.6.1-py3.4.egg
+
+Music21
+-------
+https://github.com/cuthbertLab/music21
+
+	sudo python3.4 setup.py install
+	
+installs
+/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/music21-2.0.0-py3.4.egg
